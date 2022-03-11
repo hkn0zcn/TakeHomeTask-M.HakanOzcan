@@ -1,4 +1,42 @@
 # TakeHomeTask-M.HakanOzcan
 
 
-Task 2
+## Task 2 UI Automation Selenium POM
+
+### I used Page Object Model in Selenium. It helps make the code more readable, maintainable, and reusable.
+
+### Language: Pyhon 3.9
+### Chrome Driver Version: ChromeDriver 99.0.4844.51
+### Chrome Version: Version 99.0.4844.51
+### Packages: Selenium, Pytest, pip
+
+### How to run tests: pytest testCases/test_wiki.py
+
+### Dont forget the change driver location "driver = webdriver.Chrome(executable_path = "C://browserdrivers//chromedriver.exe")" in conftest.py
+
+## Scenerios
+
+### 1. test_wikiPageTitle
+It tests whether the given url is a wiki search page with the correct header.
+
+### 2. test_clickSearch
+It tests and checks the data entry to the search bar, whether the search button works and the search results page is related to the searched word.
+
+### 3. test_advanceSearchBar
+It tests to Advance Search Options Screen visibility
+
+### 4. test_searchInBar
+It tests to Search In Options Screen visibility
+
+### 5. test_advanceSearhBarFields
+It tests data entry to fields of Advance Search Screen also tests and checks the warning message that appears at the end of the search.
+
+### 6. test_searchInBarFields
+It tests and checks check boxes of SearchIn Screen.
+
+### 7. test_SearchWithEnterButton
+It tests and checks the data entry to the search bar, whether search with enter button and the search results page is related to the searched word.
+
+
+
+
