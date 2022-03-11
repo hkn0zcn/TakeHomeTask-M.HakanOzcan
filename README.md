@@ -6,6 +6,8 @@
 
 ### You can find my Test Charter: /TakeHomeTask-M.HakanOzcan/Task1ExploratoryTestCharter.pdf
 
+![](charter.png)
+
 
 ## Task 2 UI Test Automation with Selenium (POM)
 
