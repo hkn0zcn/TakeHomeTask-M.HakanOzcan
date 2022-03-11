@@ -14,7 +14,7 @@
 
 ### Dont forget the change driver location "driver = webdriver.Chrome(executable_path = "C://browserdrivers//chromedriver.exe")" in conftest.py
 
-## Scenerios
+## Test Scenerios
 
 ### 1. test_wikiPageTitle
 It tests whether the given url is a wiki search page with the correct header.
