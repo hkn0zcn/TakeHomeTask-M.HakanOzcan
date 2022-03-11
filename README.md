@@ -49,3 +49,23 @@ It tests and checks the data entry to the search bar, whether search with enter 
 ### IDE: Intelij
 
 ![](intelij.png)
+
+## Test Scenerios
+
+### 1. test_UserLogout
+GET https://petstore.swagger.io/v2/user/logout It tests the status code and whether it contains an "ok" message.
+
+### 2. test_FindByStatusSold
+GET https://petstore.swagger.io/v2/pet/findByStatus?status=sold It tests the status code and response time.
+
+### 3. test_NonexistentID
+
+GET https://petstore.swagger.io/v2/pet/{1994} It tests the status code and response time.
+
+### 4. test_AddANewPet
+
+POST https://petstore.swagger.io/v2/pet  It tests the status code and response time and also tests and checks the "name" in the body.
+
+### 5. testStoreOrder
+
+POST https://petstore.swagger.io/v2/store/order It tests the status code and response time and also tests and checks the "status" and "complete" in the body.
