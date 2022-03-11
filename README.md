@@ -11,6 +11,8 @@
 ### Packages: Selenium, Pytest, pip
 ### IDE: Pycharm
 
+![](pycharm.png)
+
 ### How to run tests: pytest testCases/test_wiki.py
 
 ### Dont forget the change driver location "driver = webdriver.Chrome(executable_path = "C://browserdrivers//chromedriver.exe")" in conftest.py
@@ -45,3 +47,5 @@ It tests and checks the data entry to the search bar, whether search with enter 
 ### JDK Version 17.0.2
 ### Dependencies: Rest Assured, testng, slf4j
 ### IDE: Intelij
+
+![](intelij.png)
