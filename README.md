@@ -23,10 +23,10 @@ It tests whether the given url is a wiki search page with the correct header.
 It tests and checks the data entry to the search bar, whether the search button works and the search results page is related to the searched word.
 
 ### 3. test_advanceSearchBar
-It tests to Advance Search Options Screen visibility
+It tests to Advance Search Screen visibility
 
 ### 4. test_searchInBar
-It tests to Search In Options Screen visibility
+It tests to Search In Screen visibility
 
 ### 5. test_advanceSearhBarFields
 It tests data entry to fields of Advance Search Screen also tests and checks the warning message that appears at the end of the search.
