@@ -1,7 +1,7 @@
-# TakeHomeTask-M.HakanOzcan
+# TakeHomeTask-M.HakanOzcan for Adjust
 
 
-## Task 2 UI Automation Selenium POM
+## Task 2 UI Test Automation with Selenium (POM)
 
 ### I used Page Object Model in Selenium. It helps make the code more readable, maintainable, and reusable.
 
@@ -9,6 +9,7 @@
 ### Chrome Driver Version: ChromeDriver 99.0.4844.51
 ### Chrome Version: Version 99.0.4844.51
 ### Packages: Selenium, Pytest, pip
+### IDE: Pycharm
 
 ### How to run tests: pytest testCases/test_wiki.py
 
@@ -37,6 +38,10 @@ It tests and checks check boxes of SearchIn Screen.
 ### 7. test_SearchWithEnterButton
 It tests and checks the data entry to the search bar, whether search with enter button and the search results page is related to the searched word.
 
+## Task 3 API Test Automotion with Rest Assured
 
+### I created Maven Project in the Intelij and ı used Rest Assured for the api automation. It has very efficient to asserting expected results.
 
-
+### JDK Version 17.0.2
+### Dependencies: Rest Assured, testng, slf4j
+### IDE: Intelij
