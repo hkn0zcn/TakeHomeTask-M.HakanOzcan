@@ -1,5 +1,11 @@
 # TakeHomeTask - M. Hakan Özcan for Adjust
 
+## Task 1 Exploratory Test Charter
+
+### I used xray https://www.getxray.app/exploratory-testing application for my exploratory test session. 
+
+### You can find my Test Charter: /TakeHomeTask-M.HakanOzcan/Task1ExploratoryTestCharter.pdf
+
 
 ## Task 2 UI Test Automation with Selenium (POM)
 
@@ -39,6 +45,7 @@ It tests and checks check boxes of SearchIn Screen.
 
 ### 7. test_SearchWithEnterButton
 It tests and checks the data entry to the search bar, whether search with enter button and the search results page is related to the searched word.
+
 
 ## Task 3 API Test Automotion with Rest Assured
 
