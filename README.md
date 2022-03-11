@@ -1,4 +1,4 @@
-# TakeHomeTask-M.HakanOzcan for Adjust
+# TakeHomeTask - M. Hakan Özcan for Adjust
 
 
 ## Task 2 UI Test Automation with Selenium (POM)
