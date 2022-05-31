@@ -1,4 +1,4 @@
-# TakeHomeTask - M. Hakan Özcan for Adjust
+# TakeHomeTask - Hakan Özcan
 
 ## Task 1 Exploratory Test Charter
 
